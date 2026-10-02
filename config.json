@@ -1,5 +1,5 @@
 {
-    "title": "我是网站的标题~",
+    "title": "lmy的网站~",
     "theme": {
         "theme": "defdark",
         "displayName": "ACG-Home",
@@ -19,13 +19,13 @@
         }
     },
     "masterInfo": {
-        "name": "<站长名字>",
+        "name": "lmy",
         "avatar": "./assets/images/avatar.png",
         "website": "https://hic.top",
         "socialLink": {
             "link": {
-                "bilibili": "https://space.bilibili.com/675279872",
-                "github": "https://github.com/ChengCheng0v0",
+                "bilibili": "https://b23.tv/Z2OuAzf",
+                "github": "https://github.com/Lmy-ci",
                 "email": "javascript:showEmail()"
             },
             "icon": {
@@ -50,6 +50,6 @@
                 "moegov": "https://icp.gov.moe/?keyword=xxxxxxxx"
             }
         },
-        "enable": ["moegov", "china"]
+        "enable": []
     }
 }
